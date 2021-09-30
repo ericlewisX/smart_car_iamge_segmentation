@@ -1,2 +1,2 @@
-# smart_car_iamge_segmentation
+# smart_car_image_segmentation
 This project implements image segmentation.
